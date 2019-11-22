@@ -1,0 +1,19 @@
+Addanapp:
+     xpath  : //android.widget.TextView[@text='添加应用']
+navigation:
+    xpth : //android.widget.TextView[@text='导航']
+
+CheYuebaoMusic:
+    xpath : //android.widget.TextView[@text='车悦宝音乐']
+
+CheYuebaoMusicFM:
+    xpath : //android.widget.TextView[@text = '车悦宝FM']
+
+localmusic:
+    xpath : //android.widget.TextView[@text = '本地音乐']
+
+center:
+     xpath : //android.widget.TextView[@text = '个人中心']
+
+Leaderboard:
+     xpath : //android.widget.TextView[@text = '排行榜']

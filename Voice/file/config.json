@@ -1,0 +1,4 @@
+{ "Voice_id":"com.hongfans.voice:id/iv_voice",
+  "txt_display":"com.hongfans.voice:id/tv_right_text",
+ "txt_tts":"com.hongfans.voice:id/tv_left_text",
+  "txt1_tts":"com.hongfans.voice:id/tv_left_text"}

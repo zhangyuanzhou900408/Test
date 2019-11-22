@@ -1,0 +1,5 @@
+crash_id:
+     xpath  : "android:id/message"
+
+crash_id2:
+     xpath  : "很抱歉，“VoiceCoreService”已停止运行。"

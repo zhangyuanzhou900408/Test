@@ -1,0 +1,3 @@
+{"local_music_id":"com.autoai.carlauncher:id/left_name",
+"fm_id":"com.autoai.car:id/tv_fm",
+"fm_xpath":"//android.widget.TextView[@resource-id='com.autoai.car:id/tv_fm']"}
